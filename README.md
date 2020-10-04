@@ -9,12 +9,12 @@
 
 <h4> A Movie has a:</h4>
 
-* :pushpin: Title (e.g. The Mask);
-* :pushpin: Category (e.g. comedy);
-* :pushpin: Length (e.g. 120 minutes);
-* :pushpin: Release date (day, month, year);
-* :pushpin: One or many countries of creation;
-* :pushpin: Original language and/ or dubbed & subbed language(s);
+:pushpin: 1. Title (e.g. The Mask);
+:pushpin: 2. Category (e.g. comedy);
+:pushpin: 3. Length (e.g. 120 minutes);
+:pushpin: 4. Release date (day, month, year);
+:pushpin: 5. One or many countries of creation;
+:pushpin: 6. Original language and/ or dubbed & subbed language(s);
 
 * The movie has been produced and distributed by one or multiple companies or independently. 
 * It can be part of series with a name (e.g. star wars) in which case it can have prequels and sequels movies. 
