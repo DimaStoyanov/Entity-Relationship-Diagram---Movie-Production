@@ -21,9 +21,9 @@
 * A movie can be an original story or based on existing work such as book, comics etc.<br>
 * A person has contributed to a movie with one or multiple role(s), for example actor, director, producer, musician etc.<br>
 
-<h4> A Person has: </h4> <br>
-* :pushpin: Name;<br>
-* :pushpin: Date of Birth;<br>
-* :pushpin: Age.<br>
+<h4> A Person has: </h4>
+:pushpin: Name;<br>
+:pushpin: Date of Birth;<br>
+:pushpin: Age.<br>
 
 
