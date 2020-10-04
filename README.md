@@ -27,7 +27,7 @@
 :pushpin: Age.<br>
 
 <h3> A Syntax Lengend </h3>
-![GitHub Logo](/desktop/legend.png)
+![GitHub Logo](/legend.png)
 
 
 
