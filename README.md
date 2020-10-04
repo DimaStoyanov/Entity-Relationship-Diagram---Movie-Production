@@ -7,7 +7,8 @@
 
 <h3> The mini-world for the movie database: </h3>
 
-A Movie has a:
+<h4> A Movie has a:</h4>
+
 :pushpin: Title (e.g. The Mask);
 :pushpin: Category (e.g. comedy);
 :pushpin: Length (e.g. 120 minutes);
@@ -20,7 +21,7 @@ A Movie has a:
 * A movie can be an original story or based on existing work such as book, comics etc.
 * A person has contributed to a movie with one or multiple role(s), for example actor, director, producer, musician etc.
 
-A Person has:
+<h4> A Person has: </h4>
 :pushpin: Name;
 :pushpin: Date of Birth;
 :pushpin: Age.
