@@ -26,4 +26,8 @@
 :pushpin: Date of Birth;<br>
 :pushpin: Age.<br>
 
+<h3> A Syntax Lengend </h3>
+![GitHub Logo](/desktop/legend.png)
+
+
 
