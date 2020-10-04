@@ -9,7 +9,7 @@
 
 <h4> A Movie has a:</h4>
 
-:pushpin: 1. Title (e.g. The Mask);
+:pushpin: Title (e.g. The Mask); <br>
 :pushpin: 2. Category (e.g. comedy);
 :pushpin: 3. Length (e.g. 120 minutes);
 :pushpin: 4. Release date (day, month, year);
