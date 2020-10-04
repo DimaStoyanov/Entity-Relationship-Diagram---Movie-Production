@@ -1,5 +1,5 @@
-# Entity-Relationship-Diagram - Movie-Production
-This is an entity relationship diagram, which describes database of movie features and creation process. 
+ <h1> # Entity-Relationship-Diagram - Movie-Production :camera: </h1>
+_*This is an entity relationship diagram, which describes database of movie features and creation process.**_
 
 
 The mini-world for the movie database:
