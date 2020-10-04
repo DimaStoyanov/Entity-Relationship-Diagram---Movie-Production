@@ -1,6 +1,6 @@
  <h1> # Entity-Relationship-Diagram - Mini World : Movie-Production :camera: </h1>
  
-*This is an entity relationship diagram, which describes database of movie features and creation process.
+*This is an entity relationship diagram, which describes database of movie features and creation process.*
 
 
 The mini-world for the movie database:
