@@ -16,10 +16,10 @@
 :pushpin: One or many countries of creation;<br>
 :pushpin: Original language and/ or dubbed & subbed language(s);<br>
 
-* The movie has been produced and distributed by one or multiple companies or independently. <br>
-* It can be part of series with a name (e.g. star wars) in which case it can have prequels and sequels movies. <br>
-* A movie can be an original story or based on existing work such as book, comics etc.<br>
-* A person has contributed to a movie with one or multiple role(s), for example actor, director, producer, musician etc.<br>
+:heavy_minus_sign:The movie has been produced and distributed by one or multiple companies or independently. <br>
+:heavy_minus_sign:It can be part of series with a name (e.g. star wars) in which case it can have prequels and sequels movies. <br>
+:heavy_minus_sign:A movie can be an original story or based on existing work such as book, comics etc.<br>
+:heavy_minus_sign:A person has contributed to a movie with one or multiple role(s), for example actor, director, producer, musician etc.<br>
 
 <h4> A Person has: </h4>
 :pushpin: Name;<br>
