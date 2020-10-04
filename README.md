@@ -33,3 +33,5 @@
 
 
 
+## ER Diagram
+<img src="https://github.com/ekaterinadvolkova/Entity-Relationship-Diagram---Movie-Production/blob/main/Entity%20Relationship%20Diagram%20Movie.jpg?raw=true">
