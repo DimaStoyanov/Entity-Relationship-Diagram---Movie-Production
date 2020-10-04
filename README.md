@@ -27,7 +27,7 @@
 :pushpin: Age.<br>
 
 <h3> A Syntax Lengend </h3>
-![Legend](legend.png)
+
 
 
 
