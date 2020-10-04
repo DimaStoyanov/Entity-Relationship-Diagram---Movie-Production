@@ -9,12 +9,12 @@
 
 <h4> A Movie has a:</h4>
 
-:pushpin: Title (e.g. The Mask);
-:pushpin: Category (e.g. comedy);
-:pushpin: Length (e.g. 120 minutes);
-:pushpin: Release date (day, month, year);
-:pushpin: One or many countries of creation;
-:pushpin: Original language and/ or dubbed & subbed language(s);
+* :pushpin: Title (e.g. The Mask);
+* :pushpin: Category (e.g. comedy);
+* :pushpin: Length (e.g. 120 minutes);
+* :pushpin: Release date (day, month, year);
+* :pushpin: One or many countries of creation;
+* :pushpin: Original language and/ or dubbed & subbed language(s);
 
 * The movie has been produced and distributed by one or multiple companies or independently. 
 * It can be part of series with a name (e.g. star wars) in which case it can have prequels and sequels movies. 
@@ -22,8 +22,8 @@
 * A person has contributed to a movie with one or multiple role(s), for example actor, director, producer, musician etc.
 
 <h4> A Person has: </h4>
-:pushpin: Name;
-:pushpin: Date of Birth;
-:pushpin: Age.
+* :pushpin: Name;
+* :pushpin: Date of Birth;
+* :pushpin: Age.
 
 
